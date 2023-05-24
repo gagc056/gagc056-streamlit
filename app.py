@@ -118,7 +118,7 @@ The task is to classify this variable based on the other 31 features step-by-ste
 The metric for evaluation will be f1-score
 """)
 
-st.markdown("Please find GitHub repository link of project: [Click Here](https://github.com/avikumart/Road-Traffic-Severity-Classification-Project)")          
+st.markdown("Please find GitHub repository link of project: [Click Here](https://github.com/gagc056/gagc056-streamlit)")          
   
 # run the main function        
 if __name__ == '__main__':
